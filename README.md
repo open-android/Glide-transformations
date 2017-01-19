@@ -1,4 +1,4 @@
-# 结合Picasso实现很炫的图片效果框架
+# 结合Glide实现很炫的图片效果框架
 开源项目地址:[https://github.com/open-android/Glide-transformations](https://github.com/open-android/Glide-transformations)
 # 运行效果
   <img src="art/demo.gif" width="50%">
