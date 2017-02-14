@@ -1,5 +1,8 @@
 # 结合Glide实现很炫的图片效果框架
 开源项目地址:[https://github.com/open-android/Glide-transformations](https://github.com/open-android/Glide-transformations)
+
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3b0c9441077a&vId=8a2c9bed5a3a4c7e015a3b03f3bd04da&videoId=13CAE14707B5911C9C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 # 运行效果
   <img src="art/demo.gif" width="50%">
   
